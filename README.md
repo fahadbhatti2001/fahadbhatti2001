@@ -107,7 +107,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="35" height="35" />
     </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="35" height="35" />
-    </a>
 </p>
